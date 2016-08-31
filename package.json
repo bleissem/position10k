@@ -1,0 +1,25 @@
+{
+  "name": "position10k",
+  "version": "0.0.1",
+  "description": "10K what else ?",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bleissem/position10k.git"
+  },
+  "author": "Alexander Bleissem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bleissem/position10k/issues"
+  },
+  "homepage": "https://github.com/bleissem/position10k#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
